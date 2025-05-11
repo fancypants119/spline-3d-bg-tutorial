@@ -1,12 +1,19 @@
-# React + Vite
+# 🌀 React + Spline 3D Hero Section
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Add an **animated 3D background** to your React website using [Spline](https://spline.design)!  
+This project walks you through how to integrate a live 3D scene into your hero section using modern tools and clean design.
 
-Currently, two official plugins are available:
+> 🎥 Built as part of a YouTube tutorial: [Watch it here](https://youtu.be/ujgN70x1FgM)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧰 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** (Vite)
+- **Spline** 3D Scene Embed
+- **Framer Motion** for entrance animation
+- **CSS** for layout and layering
+
+---
+
+Spline scene file: https://app.spline.design/community/file/a74193d9-d8e8-4b07-a051-40914e9551da
